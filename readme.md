@@ -75,6 +75,9 @@ Aplicar o padrão singleton na classe "Persistencia".
 
 A criação da fachada ira permitir que a dependência da camada de apresentacao para a de lógica se restrinja a apenas uma classe.
 
+- O resultado deve ser semelhante ao da figura:
+![Nome](https://github.com/TP-BCopsteinSource/ExercicioRefatoracaoBanco/raw/master/ArquiteturaDaSolucaoRefatorada.jpg)
+
 ### Adoção do padrão StatePattern
 Cria a interface StateConta
 Altera a classe conta para explorar o padrão StatePattern. 
